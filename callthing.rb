@@ -1,6 +1,6 @@
 require 'twilio-ruby'
 
-puts "Who do you want to send this shit to?"
+puts "Who do you want to call?"
 number = gets.chomp
 
 puts "What do you want to say to them?"
